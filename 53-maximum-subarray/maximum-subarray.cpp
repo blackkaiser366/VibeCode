@@ -22,6 +22,9 @@ public:
             }
         }
         return maxi;
+        for(int i = ansst;i<=ansend;i++){
+            cout << nums[i];
+        }
         
     }
 };
